@@ -1,6 +1,6 @@
 {
   "version": "1.6",
-  "status": "online",
+  "status": "offline",
   "mensaje": "Acceso no autorizado. Contacta al administrador.",
   "force_update": false
 }
