@@ -1,6 +1,22 @@
 {
   "users": [
-    { "user": "admin", "pass": "FTS2024", "expira": "2026-03-10", "rol": "admin", "tipo": "ambos" },
-    { "user": "esteban", "pass": "5", "expira": "2026-03-10", "rol": "admin", "tipo": "instructor" }
+    {
+      "user": "admin",
+      "pass": "FTS2024",
+      "expira": "2026-04-10",
+      "acceso": "ambos"
+    },
+    {
+      "user": "esteban",
+      "pass": "5",
+      "expira": "2026-04-10",
+      "acceso": "instructor"
+    },
+    {
+      "user": "jorge garza",
+      "pass": "FTS2026",
+      "expira": "2026-03-17",
+      "acceso": "empleado"
+    }
   ]
 }
