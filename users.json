@@ -11,6 +11,12 @@
       "pass": "5",
       "expira": "2026-04-18",
       "acceso": "instructor"
+    },
+    {
+      "user": "tecnicos",
+      "pass": "FTS2026",
+      "expira": "2026-04-02",
+      "acceso": "empleado"
     }
   ]
 }
