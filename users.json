@@ -3,19 +3,19 @@
     {
       "user": "admin",
       "pass": "FTS2024",
-      "expira": "2026-04-18",
+      "expira": "2026-03-18",
       "acceso": "ambos"
     },
     {
       "user": "esteban",
       "pass": "5",
-      "expira": "2026-04-18",
+      "expira": "2026-03-18",
       "acceso": "instructor"
     },
     {
       "user": "tecnicos",
       "pass": "FTS2026",
-      "expira": "2026-04-02",
+      "expira": "2026-03-02",
       "acceso": "empleado"
     }
   ]
