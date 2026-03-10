@@ -23,6 +23,12 @@
       "pass": "FTS2026",
       "expira": "2026-03-17",
       "acceso": "ambos"
+    },
+    {
+      "user": "felipe",
+      "pass": "perezfts2026",
+      "expira": "2026-04-10",
+      "acceso": "ambos"
     }
   ]
 }
