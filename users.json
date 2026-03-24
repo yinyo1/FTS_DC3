@@ -29,6 +29,18 @@
       "pass": "perezfts2026",
       "expira": "2026-04-10",
       "acceso": "ambos"
+    },
+    {
+      "user": "stephany",
+      "pass": "HSES",
+      "expira": "2026-04-23",
+      "acceso": "empleado"
+    },
+    {
+      "user": "german",
+      "pass": "HSEG",
+      "expira": "2026-04-22",
+      "acceso": "empleado"
     }
   ]
 }
