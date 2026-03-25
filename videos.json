@@ -1,0 +1,41 @@
+[
+  {
+    "id": "v001",
+    "titulo": "Seguridad en Alturas",
+    "descripcion": "NOM-009-STPS-2011 · Trabajos en altura, prevención de caídas y uso correcto de EPP.",
+    "url": "https://TUEMPRESA.sharepoint.com/sites/FTS/_layouts/15/stream.aspx?id=REEMPLAZA_CON_TU_LINK",
+    "tipo": "sharepoint",
+    "duracion_min": 30,
+    "obligatorio": true,
+    "activo": true,
+    "fecha_alta": "2025-01-01",
+    "orden_sugerido": 1,
+    "miniatura": ""
+  },
+  {
+    "id": "v002",
+    "titulo": "Riesgos Eléctricos",
+    "descripcion": "NOM-029-STPS-2011 · Mantenimiento de instalaciones eléctricas y protección contra choques.",
+    "url": "https://TUEMPRESA.sharepoint.com/sites/FTS/_layouts/15/stream.aspx?id=REEMPLAZA_CON_TU_LINK",
+    "tipo": "sharepoint",
+    "duracion_min": 25,
+    "obligatorio": true,
+    "activo": true,
+    "fecha_alta": "2025-01-01",
+    "orden_sugerido": 2,
+    "miniatura": ""
+  },
+  {
+    "id": "v003",
+    "titulo": "Equipo de Protección Personal",
+    "descripcion": "NOM-017-STPS-2008 · Selección, uso y mantenimiento del EPP en el área de trabajo.",
+    "url": "https://TUEMPRESA.sharepoint.com/sites/FTS/_layouts/15/stream.aspx?id=REEMPLAZA_CON_TU_LINK",
+    "tipo": "sharepoint",
+    "duracion_min": 20,
+    "obligatorio": true,
+    "activo": true,
+    "fecha_alta": "2025-01-01",
+    "orden_sugerido": 3,
+    "miniatura": ""
+  }
+]
