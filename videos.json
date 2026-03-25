@@ -3,14 +3,13 @@
     "id": "v001",
     "titulo": "Seguridad en Alturas",
     "descripcion": "NOM-009-STPS-2011 · Trabajos en altura, prevención de caídas y uso correcto de EPP.",
-    "url": "https://TUEMPRESA.sharepoint.com/sites/FTS/_layouts/15/stream.aspx?id=REEMPLAZA_CON_TU_LINK",
+    "url": "https://ftsmx0.sharepoint.com/:v:/s/MKT_FTS/IQD9gSbsF9xhTK4blLYD4whYAS2XJruUX7XWQmIpcooO3Bw?e=JnuqzG",
     "tipo": "sharepoint",
     "duracion_min": 30,
     "obligatorio": true,
     "activo": true,
-    "fecha_alta": "2025-01-01",
-    "orden_sugerido": 1,
-    "miniatura": ""
+    "fecha_alta": "2026-03-25",
+    "orden_sugerido": 1
   },
   {
     "id": "v002",
